@@ -19,6 +19,12 @@
         android:gravity="center"
         android:textColor="@color/white"
         />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Git Test(대환)"
+        android:gravity="center"
+        />
     <FrameLayout
         android:layout_width="match_parent"
         android:layout_height="match_parent"
