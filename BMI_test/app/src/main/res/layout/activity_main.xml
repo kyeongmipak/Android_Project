@@ -6,7 +6,8 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     tools:context=".MainActivity">
-
+<!-- 디자인 변경 필요 -->
+<!-- 화면 구성 -->
     <!--  제목  -->
     <TextView
         android:layout_width="match_parent"
@@ -70,7 +71,7 @@
 
         </LinearLayout>
 
-        <!--두번째 화면 : 입력-->
+        <!-- 두번째 화면 : 입력 -->
         <LinearLayout
             android:id="@+id/secondPage"
             android:orientation="vertical"

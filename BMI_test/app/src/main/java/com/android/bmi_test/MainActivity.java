@@ -14,8 +14,10 @@ import android.widget.TextView;
 import android.widget.Toast;
 
 public class MainActivity extends Activity {
+
     //ttt
-        // ria test
+    // ria test
+
     int heightGet, weightGet;
     double result;
     LinearLayout firstPage, secondPage, thirdPage, lower, normal, fat;
@@ -125,7 +127,7 @@ public class MainActivity extends Activity {
         }
     };
 
-
+    // bmi 계산
     private double calc(){
 
         heightGet = Integer.parseInt(height.getText().toString().trim());
