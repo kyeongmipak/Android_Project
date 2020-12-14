@@ -14,7 +14,8 @@ import android.widget.TextView;
 import android.widget.Toast;
 
 public class MainActivity extends Activity {
-
+    //ttt
+        // ria test
     int heightGet, weightGet;
     double result;
     LinearLayout firstPage, secondPage, thirdPage, lower, normal, fat;
