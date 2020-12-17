@@ -21,6 +21,7 @@ public class SecondActivity extends Activity {
         setContentView(R.layout.activity_second);
 
 
+
         ImageView female = findViewById(R.id.female);
 
         Switch sw = (Switch)findViewById(R.id.selectGender);
