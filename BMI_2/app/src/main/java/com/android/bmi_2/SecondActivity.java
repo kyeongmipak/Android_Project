@@ -13,6 +13,7 @@ import androidx.annotation.Nullable;
 
 public class SecondActivity extends Activity {
 
+
     Button backBtn, nextBtn;
 
     @Override

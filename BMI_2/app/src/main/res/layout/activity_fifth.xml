@@ -36,6 +36,8 @@
             android:layout_height="wrap_content"
             android:layout_marginTop="10dp"
             android:text="별점 주기"
+            android:backgroundTint="#85C4F6"
+            android:textColor="#FFFFFF"
             android:typeface="monospace"
             />
     </LinearLayout>
@@ -45,6 +47,8 @@
         android:id="@+id/close"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
+        android:backgroundTint="#85C4F6"
+        android:textColor="#FFFFFF"
         android:text="닫기"
         android:layout_gravity="end"
         android:layout_marginRight="20dp"
